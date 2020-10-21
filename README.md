@@ -1,5 +1,5 @@
 # Oracle-to-BigQuery
-A simple piece of code that enables data transfer from Oracle Db to Google Big Query. Please develop according to your needs.
+A simple piece of code that enables data transfer from Oracle Db to Google Big Query. Please develop according to your needs. This code creates a temporary csv file. After loading datas to BigQuery, deletes this temp csv file.
 
 
 You may need to run `pip install -r requirements.txt`
